@@ -12,7 +12,7 @@ function App() {
         animate={{ opacity: 1, y: 0 }}
         className="title"
       >
-        CyberSteg Tool
+        Steg0Master Tool
       </motion.h1>
 
       {/* Embedding Section */}
