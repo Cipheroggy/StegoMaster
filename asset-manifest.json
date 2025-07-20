@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/StegoMaster/static/css/main.dea42983.css",
-    "main.js": "/StegoMaster/static/js/main.f6bb1657.js",
+    "main.js": "/StegoMaster/static/js/main.4bc2e923.js",
     "index.html": "/StegoMaster/index.html",
     "main.dea42983.css.map": "/StegoMaster/static/css/main.dea42983.css.map",
-    "main.f6bb1657.js.map": "/StegoMaster/static/js/main.f6bb1657.js.map"
+    "main.4bc2e923.js.map": "/StegoMaster/static/js/main.4bc2e923.js.map"
   },
   "entrypoints": [
     "static/css/main.dea42983.css",
-    "static/js/main.f6bb1657.js"
+    "static/js/main.4bc2e923.js"
   ]
 }
