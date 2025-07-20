@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/StegoMaster/static/css/main.ee027f3c.css",
+    "main.js": "/StegoMaster/static/js/main.8b9a0f5a.js",
+    "index.html": "/StegoMaster/index.html",
+    "main.ee027f3c.css.map": "/StegoMaster/static/css/main.ee027f3c.css.map",
+    "main.8b9a0f5a.js.map": "/StegoMaster/static/js/main.8b9a0f5a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee027f3c.css",
+    "static/js/main.8b9a0f5a.js"
+  ]
+}
