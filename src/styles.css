@@ -1,65 +1,60 @@
-
-body, html {
+body {
   margin: 0;
   padding: 0;
-  font-family: 'Segoe UI', sans-serif;
-  background-color: #0f0f0f;
+  background-color: #0d1117;
   color: white;
-  overflow: hidden;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-.app {
+.container {
+  max-width: 800px;
+  margin: auto;
+  padding: 2rem;
   text-align: center;
-  padding: 2rem;
-  position: relative;
-  z-index: 2;
-}
-
-.dropzone {
-  border: 2px dashed #888;
-  padding: 2rem;
-  margin: 1rem auto;
-  width: 60%;
-  background-color: #1e1e1e;
-  cursor: pointer;
-}
-
-.preview {
-  width: 300px;
-  margin-top: 1rem;
-  border-radius: 10px;
-  box-shadow: 0 0 10px #0ff;
-}
-
-.btn {
-  margin-top: 1rem;
-  padding: 0.75rem 2rem;
-  background-color: #0ff;
-  border: none;
-  border-radius: 8px;
-  font-size: 1rem;
-  color: #000;
-  cursor: pointer;
-  transition: background-color 0.3s ease;
-}
-
-.btn:hover {
-  background-color: #0cc;
-}
-
-.binary-background {
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background-image: linear-gradient(rgba(0,0,0,0.9), rgba(0,0,0,0.9)), url('https://i.ibb.co/fC0tZZG/matrix.gif');
-  background-size: cover;
-  opacity: 0.4;
-  z-index: 0;
 }
 
 .title {
   font-size: 2.5rem;
-  margin-bottom: 1rem;
+  margin-bottom: 2rem;
+  color: #00ffff;
+}
+
+.section {
+  background-color: #161b22;
+  border-radius: 1rem;
+  padding: 1.5rem;
+  margin-bottom: 2rem;
+  box-shadow: 0 0 15px rgba(0, 255, 255, 0.1);
+}
+
+.input,
+.textarea {
+  display: block;
+  width: 100%;
+  margin: 1rem 0;
+  padding: 0.75rem;
+  border-radius: 0.5rem;
+  border: none;
+  background-color: #21262d;
+  color: white;
+}
+
+.btn {
+  padding: 0.5rem 1.5rem;
+  border: none;
+  background-color: #00bcd4;
+  color: white;
+  font-weight: bold;
+  border-radius: 0.5rem;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background-color: #0097a7;
+}
+
+.result {
+  margin-top: 1rem;
+  color: #00ff95;
+  font-style: italic;
 }
