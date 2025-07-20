@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/StegoMaster/static/css/main.59457329.css",
-    "main.js": "/StegoMaster/static/js/main.8b106428.js",
+    "main.css": "/StegoMaster/static/css/main.53309991.css",
+    "main.js": "/StegoMaster/static/js/main.aaf5346e.js",
     "index.html": "/StegoMaster/index.html",
-    "main.59457329.css.map": "/StegoMaster/static/css/main.59457329.css.map",
-    "main.8b106428.js.map": "/StegoMaster/static/js/main.8b106428.js.map"
+    "main.53309991.css.map": "/StegoMaster/static/css/main.53309991.css.map",
+    "main.aaf5346e.js.map": "/StegoMaster/static/js/main.aaf5346e.js.map"
   },
   "entrypoints": [
-    "static/css/main.59457329.css",
-    "static/js/main.8b106428.js"
+    "static/css/main.53309991.css",
+    "static/js/main.aaf5346e.js"
   ]
 }
